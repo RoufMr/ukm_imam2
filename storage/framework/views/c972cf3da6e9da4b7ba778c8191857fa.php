@@ -1,0 +1,1 @@
+<?php /**PATH D:\Semester_4\Laravel\UKMIMAM\resources\views/home/main.blade.php ENDPATH**/ ?>
